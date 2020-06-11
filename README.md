@@ -1,4 +1,4 @@
-<img src="https://devsar.s3-sa-east-1.amazonaws.com/iso_logo_sticker.png" alt="Devsar logo" title="Devsar Talks" align="right" height="96" width="96"/>
+<img src="https://devsar.s3-sa-east-1.amazonaws.com/logo_emails-02.png" alt="Devsar logo" title="Devsar Talks" align="right" height="96" width="96"/>
 
 # Kubernetes examples
 
